@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<?xml-stylesheet type="text/xsl" href="members.xsl"?>
+<members>
+  <member>
+    <rollno>05</rollno>
+    <fname>Karishma</fname>
+    <lname>Borkar</lname>
+    <age>19</age>
+    <gender>Female</gender>
+    <branch>IT</branch>
+    <mail>karishborkar03@gmail.com</mail>
+  </member>
+  <member>
+    <rollno>13</rollno>
+    <fname>Giselle</fname>
+    <lname>Coutinho</lname>
+    <age>19</age>
+    <gender>Female</gender>
+    <branch>IT</branch>
+    <mail>gisellecoutinho2000@gmail.com</mail>
+  </member>
+  <member>
+    <rollno>01</rollno>
+    <fname>Vrutik</fname>
+    <lname>Adani</lname>
+    <age>19</age>
+    <gender>Male</gender>
+    <branch>IT</branch>
+    <mail>vrutikadani@gmail.com</mail>
+  </member>
+</members>
